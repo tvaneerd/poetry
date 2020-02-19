@@ -48,3 +48,23 @@ ICE ICE baby
 
 https://twitter.com/tvaneerd/status/927272995722117120
 
+#### Red-Black
+
+**Eric Niebler**  
+I see a red node and I want to paint it black.  
+No red nodes anymore I want them to turn black.  
+
+**Tony Van Eerd**  
+I see the T's go by wrapped in their standard nodes  
+I have to churn my head until my balance grows  
+
+https://twitter.com/ericniebler/status/1037087369864732672
+
+#### Seuss
+
+When choosing a container, remember vector is best;  
+Leave a comment to explain if you choose one from the rest!  
+
+https://wg21.link/std
+
+
