@@ -67,4 +67,20 @@ Leave a comment to explain if you choose one from the rest!
 
 https://wg21.link/std
 
+#### Debbie Harry / Blondie
+
+One way or another, I'm gonna find ya  
+I'm gonna get ya, get ya, get ya, get ya  
+One way or another, I'm gonna fix ya  
+I'm gonna git ya, git ya ,git ya, git ya  
+One way or another, I'm gonna see ya  
+I'm gonna beat ya, beat ya, beat ya, beat ya  
+
+- Blondie debugging.
+
+Happy BDay Debbie!
+
+https://twitter.com/tvaneerd/status/1278408074403942401
+
+
 
