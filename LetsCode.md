@@ -1,3 +1,5 @@
+David Bowie as a programmer:
+
 Let's Code  
 Pull up your keyboard and code things new  
 Let's Code  
