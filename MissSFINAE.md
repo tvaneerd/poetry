@@ -19,6 +19,6 @@ But I can explain why I do not
 Miss SFINAE  
 Miss SFINAE... 
 
-https://twitter.com/tvaneerd/status/955916270464987136  [
+https://twitter.com/tvaneerd/status/955916270464987136  
 https://www.youtube.com/watch?v=dY-_m6vUTUY
 
