@@ -17,7 +17,7 @@ These are a few of the C++ things!
 When the tests fail  
 When the bug stings  
 When it's compiling bad  
-I simply remember my these C++ things  
+I simply remember these C++ things  
 And then I don't feel so sad.  
 
 https://twitter.com/tvaneerd/status/1362491316127555587
